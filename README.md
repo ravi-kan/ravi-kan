@@ -10,7 +10,7 @@ Front End Engineer
 - Web Development **React**
 - Android Development **Java|Kotlin**
 
-## Equipped with
+## :gear Equipped with
 - Data Structures
 - Algorithms
 - Competitive Programming
