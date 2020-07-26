@@ -4,7 +4,11 @@ Front End Engineer | Embracing Technology
 # About
 - Currently a fresher to this world of infinite opportunities of learnings and experiences.
 - Deevloping Front End for mobile and web platforms @Oyo
-- Aspire to democratize technology to the every houseand every individual.
+- Aspire to democratize technology to the every individual.
+
+## Technologies
+-- Web Development in ** React**
+-- Native Android Development
 
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
