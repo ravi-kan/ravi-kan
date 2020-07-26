@@ -14,6 +14,8 @@ Front End Engineer
 - Data Structures
 - Algorithms
 - Competitive Programming
+- Languages - **JavaScript, Python, Dart, Kotlin, Java, C++, C**
+- Tools - **Version Control, UNIX, NGINX**
 
 ## 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/kavirant/)
