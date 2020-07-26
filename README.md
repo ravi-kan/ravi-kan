@@ -1,5 +1,5 @@
 # Ravi Kant
-Front End Engineer | Embracing Technology
+Front End Engineer 
 
 # About
 - Currently a fresher to this world of infinite opportunities of learnings and experiences.
