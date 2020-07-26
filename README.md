@@ -19,7 +19,7 @@ Front End Engineer
 - Tools - **Version Control, UNIX, NGINX**
 - ...constantly expanding
 
-## 📫 Contact me
+## 📫 Shortest Paths
 - [LinkedIn](https://www.linkedin.com/in/kavirant/)
 - [Twitter](https://twitter.com/kavirant)
 
