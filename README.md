@@ -16,8 +16,8 @@ Front End Engineer
 - Competitive Programming
 
 ## 📫 Contact me
-- LinkedIn - [rk](https://www.linkedin.com/in/kavirant/)
-- Twitter - [rk](https://twitter.com/kavirant)
+- [LinkedIn](https://www.linkedin.com/in/kavirant/)
+- [Twitter](https://twitter.com/kavirant)
 
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
