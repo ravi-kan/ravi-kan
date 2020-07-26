@@ -18,6 +18,7 @@ Front End Engineer
 ## Contact me
 - LinkedIn - [Ravi Kant](https://www.linkedin.com/in/kavirant/)
 - Twitter - [@Ravi Kant](https://twitter.com/kavirant)
+Click on the @icn-camera icon to take a screen shot.
 
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
