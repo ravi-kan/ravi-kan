@@ -9,6 +9,7 @@ Front End Engineer
 ## ⚡ Technologies
 - Web Development **React**
 - Android Development **Java|Kotlin**
+constantly expanding
 
 ## :toolbox: Equipped with
 - Data Structures
@@ -16,6 +17,7 @@ Front End Engineer
 - Competitive Programming
 - Languages - **JavaScript, Python, Dart, Kotlin, Java, C++, C**
 - Tools - **Version Control, UNIX, NGINX**
+constantly expanding
 
 ## 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/kavirant/)
