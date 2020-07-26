@@ -6,18 +6,17 @@ Front End Engineer
 - Deevloping Front End for mobile and web platforms @Oyo
 - Aspire to democratize technology to the every individual.
 
-## ⚡ Technologies
+## ⚡ Technologies (...constantly expanding)
 - Web Development **React**
 - Android Development **Java|Kotlin**
-- ...constantly expanding
 
-## :toolbox: Equipped with
+## :toolbox: Equipped with (...constantly expanding)
 - Data Structures
 - Algorithms
 - Competitive Programming
 - Languages - **JavaScript, Python, Dart, Kotlin, Java, C++, C**
 - Tools - **Version Control, UNIX, NGINX**
-- ...constantly expanding
+
 
 ## 📫 Shortest Paths
 - [LinkedIn](https://www.linkedin.com/in/kavirant/)
