@@ -23,6 +23,8 @@ Front End Engineer
 - [LinkedIn](https://www.linkedin.com/in/kavirant/)
 - [Twitter](https://twitter.com/kavirant)
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="kavirant"><a class="LI-simple-link" href='https://in.linkedin.com/in/kavirant?trk=profile-badge'>Ravi Kant</a></div>
+
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
