@@ -6,7 +6,7 @@ Front End Engineer
 - Deevloping Front End for mobile and web platforms @Oyo
 - Aspire to democratize technology to the every individual.
 
-## Technologies
+## ⚡ Technologies
 - Web Development **React**
 - Android Development **Java|Kotlin**
 
