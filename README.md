@@ -7,9 +7,13 @@ Front End Engineer | Embracing Technology
 - Aspire to democratize technology to the every individual.
 
 ## Technologies
-- Web Development in ** React **
-- Android Development in ** Java|Kotlin **
-- 
+- Web Development **React**
+- Android Development **Java|Kotlin**
+
+## Equipped with
+- Data Structures
+- Algorithms
+- Competitive Programming
 
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
