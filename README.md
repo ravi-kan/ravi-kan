@@ -3,7 +3,7 @@ Front End Engineer
 
 # About
 - Currently a fresher to this world of infinite opportunities of learnings and experiences.
-- Deevloping Front End for mobile and web platforms @Oyo
+- Devloping Front End for mobile and web platforms @Oyo
 - Aspire to democratize technology to the every individual.
 
 ## ⚡ Technologies (...constantly expanding)
