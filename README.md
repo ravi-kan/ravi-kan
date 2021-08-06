@@ -2,12 +2,11 @@
 Front End Engineer 
 
 # About
-- Currently a fresher to this world of infinite opportunities of learnings and experiences.
 - Devloping Front End for mobile and web platforms @Oyo
-- Aspire to democratize technology to the every individual.
 
 ## ⚡ Technologies (...constantly expanding)
 - Web Development **React**
+- Mobile Development ** React Native**
 - Android Development **Java|Kotlin**
 
 ## :toolbox: Equipped with (...constantly expanding)
@@ -20,7 +19,6 @@ Front End Engineer
 
 ## 📫 Shortest Paths
 - [LinkedIn](https://www.linkedin.com/in/kavirant/)
-- [Twitter](https://twitter.com/kavirant)
 
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
