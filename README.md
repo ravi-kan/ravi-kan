@@ -5,9 +5,9 @@ Front End Engineer
 - Devloping Front End for mobile and web platforms @Oyo
 
 ## ⚡ Technologies (...constantly expanding)
-- Web Development **ReactJS**
-- Mobile Development **React Native**
-- Android Development **Java, Kotlin, MVVM**
+- Web Development - **ReactJS**
+- Mobile Development - **React Native**
+- Android Development - **Java, Kotlin, MVVM**
 
 ## :toolbox: Equipped with (...constantly expanding)
 - Data Structures
