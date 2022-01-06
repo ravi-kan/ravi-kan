@@ -2,11 +2,11 @@
 Front End Engineer 
 
 # About
-- Devloping Front End for mobile and web platforms @Oyo
+- Devloping Front End for mobile and web platforms @Xto10X
 
 ## ⚡ Technologies (...constantly expanding)
 - Web Development - **ReactJS**
-- Mobile Development - **React Native**
+- Mobile Development - **React Native, Flutter**
 - Android Development - **Java, Kotlin, MVVM**
 
 ## :toolbox: Equipped with (...constantly expanding)
