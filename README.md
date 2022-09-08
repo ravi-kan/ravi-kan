@@ -18,7 +18,10 @@ Front End Engineer
 
 
 ## 📫 Shortest Paths
-- [LinkedIn](https://www.linkedin.com/in/kavirant/)
+- [LinkedIn](https://www.linkedin.com/in/ravikaant/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravikaant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **kavirant/kavirant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
