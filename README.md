@@ -20,7 +20,7 @@ Front End Engineer
 ## 📫 Shortest Paths
 - [LinkedIn](https://www.linkedin.com/in/ravikaant/)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ravikaant&no-bg=true&row=1&column=6&no-frame=true&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=ravikaant&no-bg=true&row=1&column=6&no-frame=true&margin-w=15&margin-h=15&theme=gruvbox)
 
 
 <!--
