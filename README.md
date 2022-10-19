@@ -2,7 +2,7 @@
 Front End Engineer 
 
 # About
-- Devloping Front End for mobile and web platforms @Xto10X
+- Devloping Front End for mobile and web platforms [@xto10x](https://github.com/xto10x)
 
 ## ⚡ Technologies (...constantly expanding)
 - Web Development - **ReactJS**
