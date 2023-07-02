@@ -1,8 +1,8 @@
 # Ravi Kant
-Front End Engineer 
+Software Engineer 
 
-# About
-- Devloping Front End for mobile and web platforms [@Rupifi](https://github.com/rupifi)
+<!--# About
+- Devloping Front End for mobile and web platforms [@Rupifi](https://github.com/rupifi)-->
 
 ## ⚡ Technologies (...constantly expanding)
 - Web Development - **ReactJS, NextJS**
