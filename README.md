@@ -15,7 +15,7 @@ Software Engineer
 - Algorithms
 - Competitive Programming
 - Languages - **JavaScript, Python, Kotlin, Java, C++, C**
-- Tools - **Version Control, UNIX, NGINX, Jenkins, Firebase, Google Play**
+- Tools - **AWS, Version Control, UNIX, NGINX, Jenkins, Firebase, Google Play**
 
 
 ## 📫 Shortest Paths
