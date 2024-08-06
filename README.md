@@ -4,21 +4,20 @@ Software Engineer
 <!--# About
 - Devloping Front End for mobile and web platforms [@Rupifi](https://github.com/rupifi)-->
 
-## ⚡ Technologies (...constantly expanding)
+## ⚡ Technologies
 - Web Development - **ReactJS, NextJS**
-- Mobile Development - **React Native, Flutter**
+- Mobile App Development - **React Native, Flutter**
 - Android Development - **Java, Kotlin, MVVM**
-- Backend - **Node, Express, Google Cloud Function**
+- Backend - **Node, Express, NestJS, FastAPI,  Google Cloud Function**
+- Languages - **JavaScript, Typescript, Python, Kotlin, Java, C++, C**
+- Tools - **AWS, Firebase, Git, NGINX, Jenkins, Firebase, MoEngage**
+- Fundamentals
+  - Data Structures & Algorithms
+  - DBMS
+  - Operating Systems
+  - Computer Networks
 
-## :toolbox: Equipped with (...constantly expanding)
-- Data Structures
-- Algorithms
-- Competitive Programming
-- Languages - **JavaScript, Python, Kotlin, Java, C++, C**
-- Tools - **AWS, Version Control, UNIX, NGINX, Jenkins, Firebase, Google Play**
-
-
-## 📫 Shortest Paths
+## 📫 Shortest Path
 - [LinkedIn](https://www.linkedin.com/in/ravikaant/)
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ravikaant&no-bg=true&row=1&column=6&no-frame=true&margin-w=15&margin-h=15&theme=gruvbox) -->
