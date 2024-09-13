@@ -9,8 +9,8 @@ Software Engineer
 - Mobile App Development - **React Native, Flutter**
 - Android Development - **Java, Kotlin, MVVM**
 - Backend - **Node, Express, NestJS, FastAPI,  Google Cloud Function**
-- Languages - **JavaScript, Typescript, Python, Kotlin, Java, C++, C**
-- Tools - **AWS, Firebase, Git, NGINX, Jenkins, Firebase, MoEngage**
+- Languages - **JavaScript, Typescript, Python, Dart, Kotlin, Java, C++, C**
+- Tools - **AWS, Firebase, Git, NGINX, Jenkins, MoEngage**
 - Fundamentals
   - Data Structures & Algorithms
   - DBMS
